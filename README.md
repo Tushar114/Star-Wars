@@ -32,11 +32,6 @@ See the section about [running tests](#running-tests) for more information.
 Builds the app for production to the `build` folder.<br>
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
-## Demo
-
-* Dev Login page [http://localhost:3000/login](http://localhost:3000/login)
-
-- Hosted page [https://react-star-wars.firebaseapp.com/login](https://react-star-wars.firebaseapp.com/login)
-
-* Login with `luke/19bby`
+#### `NOTE`
+* Login with `Luke Skywalker/19BBY
 * Search planet name e.g. `tatooine`

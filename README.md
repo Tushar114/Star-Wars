@@ -1,16 +1,16 @@
 # React Sample code
 
-React Sample code examples
+React Sample code examples using React Router, Swapi API, and REDUX.
 
 # Installation
 
 Get the source code
 
-#### `git clone https://github.com/pradeep1991singh/react-star-wars`
+#### `git clone https://github.com/Tushar114/Star-Wars
 
 Install project dependency, by running:
 
-#### `yarn install`
+#### `yarn install/ npm install`
 
 ## Available Scripts
 
